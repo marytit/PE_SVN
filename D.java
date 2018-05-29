@@ -19,4 +19,8 @@ public class D implements F {
     public double ad() {
         return 9.11;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

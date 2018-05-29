@@ -19,4 +19,8 @@ public class K implements F {
     public double ad() {
         return 11;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
