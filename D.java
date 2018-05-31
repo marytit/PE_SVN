@@ -23,4 +23,8 @@ public class D implements F {
     public Object pp() {
         return this;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }

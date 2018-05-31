@@ -23,4 +23,8 @@ public class K implements F {
     public Object rr() {
         return null;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
