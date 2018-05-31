@@ -31,4 +31,8 @@ public class D implements F {
     public int ae() {
         return 8;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
