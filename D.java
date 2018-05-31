@@ -27,4 +27,8 @@ public class D implements F {
     public void bb() {
         System.out.println(42);
     }
+
+    public int ae() {
+        return 8;
+    }
 }
